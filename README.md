@@ -1,4 +1,4 @@
-# Analyzing-Runkeeper-Fitness-Data
+# Analyzing Runkeeper Fitness Data
 In this Python Notebook, I have analyzed seven years worth of training data exported from Runkeeper from 2012 through 2018.
 
 SOME FACTS:
